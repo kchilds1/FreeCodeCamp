@@ -1,0 +1,2 @@
+# Learn More About CSS Pseudo Selectors By Building A Balance Sheet
+Exercise found on [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
