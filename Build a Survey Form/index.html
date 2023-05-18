@@ -1,0 +1,34 @@
+<!DOCHTML>
+  <HTML lang="en">
+    <head>
+      <title>Vehicles</title>
+        <h1 id="title">Vehicles</h1>
+        <p id="description">What type of vehicles would you like to purchase</p>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+      
+    <body>
+      <form id="survey-form">
+
+        <label for="name" id="name-label">Name: <input id="name"   type="text"placeholder="enter name" required/></label>
+        
+        
+        <label for="email"id="email-label">Email Address: <input id="email" type="email" placeholder="enter email address" required/>
+        </label>
+        
+        <label for="number" id="number-label">ID: <input id="number" type="number" min="1" max="10" placeholder="enter number" required/>
+        </label>
+        <select id="dropdown">
+          <option>1</option>
+          <option>2</option>
+        <label for="truck">
+        <input type="radio" name="r" value="truck">
+        <input type="radio" name="r" value="car">  
+        <label><input type="checkbox" value="car">car</label>
+        <label><input type="checkbox" value="truck">truck</label>
+        <label><input type="checkbox" value="bike">bike</label>
+        <label><textarea id="comments" name="comment" rows="3" cols="20" placeholder="Additional comments"></textarea>
+       <input id="submit" type="submit"> 
+      </form>
+    </body>  
+  </HTML>
