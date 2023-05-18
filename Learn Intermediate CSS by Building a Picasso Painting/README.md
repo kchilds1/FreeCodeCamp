@@ -1,0 +1,2 @@
+# Learn Intermediate CSS by Building a Picasso Painting
+Project found on [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting)
