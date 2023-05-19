@@ -9,3 +9,4 @@ Note: The data (the number of cups of tea) is supplied as the last argument. We'
 - console.log(getTea(prepareGreenTea, 27)) to make sure 13 cups of blackTea is being returned in the teaCups array.
 - console.log(getTea(prepareBlackTea, 13)) to make sure 13 cups of blackTea is being returned in the teaCups array.
 - set my console log values to constant variables tea4GreenTeamFCC and tea4BlackTeamFCC instead of null values.
+# Course found at [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/understand-functional-programming-terminology).
