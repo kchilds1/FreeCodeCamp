@@ -6,6 +6,6 @@ Write the incrementer function so it takes an argument, and then returns a resul
 ## Steps
 - Set the incrementer function parameter to value
 - Return value + 1
-- checked work by console.log(incremneter(4)) and it returned 5.
+- Checked work by console.log(incremneter(4)) and it returned 5.
 
 ## Course found on [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/pass-arguments-to-avoid-external-dependence-in-a-function)
