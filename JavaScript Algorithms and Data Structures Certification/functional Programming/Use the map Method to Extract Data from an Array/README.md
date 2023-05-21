@@ -9,3 +9,5 @@ The variable watchList holds an array of objects with information on several mov
 - Created another variable called filteredList, which uses a filter method on mappedWatchList to find objects within the array that are greater than or equal to 8.0.
 - The code didn't pass after running the test.  It looks like I need to change the imdbRating key to rating, then rerun the tests.
 - I changed const mappedWatchList = watchList.map(obj => ({Title: obj.Title, imdbRating: obj.imdbRating })); to const mappedWatchList = watchList.map(obj => ({"title": obj.Title, "rating": obj.imdbRating})); and mappedWatchList.imdbRating to mappedWatchList.rating for the filteredList function.
+
+## Course can be found at [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-filter-method-to-extract-data-from-an-array)
