@@ -6,3 +6,5 @@ Write your own Array.prototype.myMap(), which should behave exactly like Array.p
 - Push the callback function that passed (test function that passed: item => item * 2) as an argument to newArray from current array this
 - return newArray
 - console.log([23, 65, 98, 5, 13].myMap(item => item * 2)) which returned [ 46, 130, 196, 10, 26 ].
+
+## Course found at [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/implement-map-on-a-prototype)
