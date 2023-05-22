@@ -6,4 +6,4 @@ Use the split method inside the splitify function to split str into an array of 
 - Turns out I was using the wrong character instead of using I I should have used |.  The console.log looks better, but I'm still missing space as one of my delimiters.
 - instead of having const splitValue = str.split(/,|-/);  I need to add another | and space between / /in order to include space between words in the string.  Example: const splitValue = str.split(/,|-| /);
 
-## Course can be found at [freecodecamp](Split a String into an Array Using the split Method)
+## Course can be found at [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/split-a-string-into-an-array-using-the-split-method)
