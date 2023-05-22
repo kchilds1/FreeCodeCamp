@@ -5,3 +5,5 @@ Note: Your function should not use any kind of for or while loops or the forEach
 
 ## Steps
 - Added filter to returned value.  SquareList is being check to filter for numbers greater than 0 and number is a whole number divisible by 1 with no remainder.  The map function is used to return the square root of the filtered values.
+
+## Course can be found on [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-higher-order-functions-map-filter-or-reduce-to-solve-a-complex-problem)
