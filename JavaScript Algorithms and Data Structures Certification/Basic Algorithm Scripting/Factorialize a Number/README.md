@@ -15,6 +15,6 @@ Only integers greater than or equal to zero will be supplied to the function.
 - Also in the for loop instead of i < num as if i = 0, I used i<= num to include 1 in the loop. Then for loop will iterate and increment on the next loop.
 - I checked to make sure my for loop was looping correctly by console.log(i)
 - Multiply numForFactorial by i.
--The return numForFactorial.  If 5 was the parameter put into the function as a parameter, then numForFactorial would be 120 since 1 * 2 * 3 * 4 * 5 = 120.
+- The return numForFactorial.  If 5 was the parameter put into the function as a parameter, then numForFactorial would be 120 since 1 * 2 * 3 * 4 * 5 = 120.
 
 ## Course can be found at [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number)
