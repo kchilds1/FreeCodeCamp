@@ -12,7 +12,7 @@ Only integers greater than or equal to zero will be supplied to the function.
 # Steps
 - Originally I set the numForFactorial = 0 but kept getting 0 in my console.log because anything multiplied by 0 would be zero. So instead of setting it to 0, I set it to 1.
 - In my for loop I set let i = 1 for the same reason I set numForFactorial to 1.
-- Also in the for loop instead of i < num as if i = 0, I used i<= num to include 1 in the loop. Then for loop will loop and increment on the next loop.
+- Also in the for loop instead of i < num as if i = 0, I used i<= num to include 1 in the loop. Then for loop will iterate and increment on the next loop.
 - I checked to make sure my for loop was looping correctly by console.log(i)
 - Multiply numForFactorial by i.
 -The return numForFactorial.  If 5 was the parameter put into the function as a parameter, then numForFactorial would be 120 since 1 * 2 * 3 * 4 * 5 = 120.
