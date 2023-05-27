@@ -16,3 +16,5 @@ For example, sumAll([4,1]) should return 10 because sum of all the numbers betwe
 - console.log(i); to make sure for loop is iterating the correct amount of times.
 - within the for loop I added all numbers min to max.
 - returned the result of the for loop
+
+## Course can be found at [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range)
